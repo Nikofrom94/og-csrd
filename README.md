@@ -7,7 +7,7 @@ https://callmepartario.github.io/og-csrd
 
 This online reference for the Cypher System Reference Document (CSRD) provides an in-depth look at the game with content aligned to the [Cypher System Rulebook (2019)](https://www.montecookgames.com/store/product/cypher-system-rulebook-2/).
 
-Readers are encouraged to support Monte Cook Games, who have so generously made this information available. Consider buying products listed in the [Additional Descriptors](https://callmepartario.github.io/og-csrd/#additional-descriptors), [Additional Foci](https://callmepartario.github.io/og-csrd/#additional-foci), or [What's In The Book?](https://callmepartario.github.io/og-csrd/#choose-products) sections to ensure the longevity of our collective imaginations.
+Readers are encouraged to support Monte Cook Games, who have so generously made this information available. Consider buying products listed in [What's In The Book?](https://callmepartario.github.io/og-csrd/#choose-products) to ensure ongoing support and developmnt for the CSRD's informing material.
 
 ## Old Gus' Unofficial Cypher System Player's Guide (OG-CSPG)
 
@@ -21,7 +21,7 @@ This should go without saying, but Old Gus' Unofficial Cypher System Player's Gu
 
 https://callmepartario.github.io/og-csrd/og-dd.html
 
-A collection of free, online options for your best game ever—new character options, cyphers, artifacts and tools for GMs. Also available for [Cypher System Community Content module for Foundry VTT](https://foundryvtt.com/packages/cyphersystem-community-module) and the [Lost Company Press Cypher Character Generator](https://lostcompanypress.com/app/cypher_character_generator).
+A collection of free, online options for your best game ever—new character options, cyphers, artifacts and tools for GMs. Also available for [Cypher System Community Content module for Foundry VTT](https://foundryvtt.com/packages/cyphersystem-community-module).
 
 ## Old Gus' Cypher System Character Sheet (OG-CSCS)
 
@@ -70,7 +70,7 @@ Thanks for reading, and may these tools bring you and yours many happy adventure
 
 # Cypher System Open Licence
 
-These documents are based on the February 26, 2024 edition of the [Cypher System Reference Document (CSRD)](http://csol.montecookgames.com/). They are intended to help Game Masters (GMs), players, and others interested in the Cypher System to learn more about it, create characters, worlds, and share stories together.
+These documents are based on the September 26, 2024 edition of the [Cypher System Reference Document (CSRD)](http://csol.montecookgames.com/). They are intended to help Game Masters (GMs), players, and others interested in the Cypher System to learn more about it, create characters, worlds, and share stories together.
 
 This product is an independent production and is not affiliated with Monte Cook Games, LLC. It is published under the Cypher System Open License, found at http://csol.montecookgames.com
 
